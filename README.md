@@ -41,13 +41,13 @@ CSV or Excel with these columns:
 
 | Column | Description |
 |---|---|
-|  | Well position |
-|  | miRNA or reference gene name |
-|  | Sample identifier |
-|  /  | Quantification cycle value |
-|  | Mean Cq across technical replicates |
-|  |  or  |
-|  | Standard deviation of Cq |
+| Well | Well position |
+| Target | miRNA or reference gene name |
+| Sample | Sample identifier |
+| Cq / Ct | Quantification cycle value |
+| Cq Mean | Mean Cq across technical replicates |
+| Type | Normal or Tumor |
+| Sd | Standard deviation of Cq |
 
 Reference genes recognized: **U6**, **UniSP6**
 
