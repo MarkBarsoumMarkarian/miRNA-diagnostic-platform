@@ -4,7 +4,7 @@
 
 🔗 **[Live app → markbarsoummarkarian.shinyapps.io/mirna-qpcr-platform](https://markbarsoummarkarian.shinyapps.io/mirna-qpcr-platform/)**
 
-![Shiny app screenshot](docs/shiny_app_screenshot.png?v=1773775408)
+![Shiny app screenshot](docs/shiny_screenshot_v2.png)
 
 ---
 
